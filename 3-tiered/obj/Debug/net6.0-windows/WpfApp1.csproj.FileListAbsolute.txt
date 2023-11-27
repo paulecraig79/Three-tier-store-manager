@@ -1,0 +1,124 @@
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Inventory.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Inventory.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Inventory_Search.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Manager_Log_in.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Order.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Price.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Promo.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Inventory_Search.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Manager_Log_in.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Order.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Price.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Promo.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Customers\Loyalty_Card.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Customers\Loyalty_Card.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Customers\Customer.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Customers\Customer.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\Order_Menu.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\Order_Menu.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\FA.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\FA.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.exe
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.deps.json
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Customers\Customer.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Customers\Loyalty_Card.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Inventory.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Inventory_Search.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Manager_Log_in.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Order.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Price.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Promo.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\FA.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\Order_Menu.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1_MarkupCompile.lref
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Customers\Customer.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Customers\Loyalty_Card.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Inventory.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Inventory_Search.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Manager_Log_in.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Order.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Price.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Inventory\Promo.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\FA.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\Order_Menu.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.g.resources
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.csproj.CopyComplete
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\refint\WpfApp1.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.pdb
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\ref\WpfApp1.dll
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\Stores.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\Stores.baml
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\Item_Reports.g.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\WpfApp1\obj\Debug\net6.0-windows\Orders\Item_Reports.baml

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Customers\Customer.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Customers\Loyalty_Card.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Orders\FA.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Inventory\Inventory.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Inventory\Inventory_Search.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Inventory\Manager_Log_in.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Inventory\Order.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Inventory\Price.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Inventory\Promo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Orders\Item_Reports.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Orders\Order_Menu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Orders\Stores.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Customers\Customer.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Customers\Loyalty_Card.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Orders\FA.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Inventory\Inventory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Inventory\Inventory_Search.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Inventory\Manager_Log_in.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Inventory\Order.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Inventory\Price.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Inventory\Promo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Orders\Item_Reports.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Orders\Order_Menu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Orders\Stores.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

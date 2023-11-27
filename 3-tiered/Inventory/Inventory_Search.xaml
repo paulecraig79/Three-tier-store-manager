@@ -1,0 +1,18 @@
+﻿<Window x:Class="SA_Three_Tiered.Inventory_Search"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SA_Three_Tiered"
+        mc:Ignorable="d"
+        Title="Inventory_Search" Height="450" Width="800">
+    <Grid>
+        <RadioButton x:Name="ID_Radio" Content="ID" HorizontalAlignment="Left" Margin="692,147,0,0" VerticalAlignment="Top" Checked="ID_Checked"/>
+        <RadioButton x:Name="Item_Name" Content="Item Name" HorizontalAlignment="Left" Margin="692,167,0,0" VerticalAlignment="Top"/>
+        <Label Content="Select what to search by:" HorizontalAlignment="Left" Margin="654,117,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="Search_Text" HorizontalAlignment="Left" Margin="32,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="612" Height="362"/>
+        <Button x:Name="SearchButton" Content="Search" HorizontalAlignment="Left" Margin="658,286,0,0" VerticalAlignment="Top" Height="106" Width="132" Click="SearchButton_Click"/>
+        <TextBox x:Name="Query" HorizontalAlignment="Left" Margin="664,217,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

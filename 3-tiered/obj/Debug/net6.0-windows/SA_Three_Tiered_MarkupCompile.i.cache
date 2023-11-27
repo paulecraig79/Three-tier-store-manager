@@ -1,0 +1,20 @@
+﻿SA_Three_Tiered
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\40482827_Coursework\3-tiered\obj\Debug\net6.0-windows\
+SA_Three_Tiered
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\user\OneDrive - Edinburgh Napier University\UNI\Software ARCHITECTURE\SA\40482827_Coursework\3-tiered\App.xaml
+13-1576600596
+
+211880857966
+202-1477385934
+Customers\Customer.xaml;Customers\Loyalty_Card.xaml;Inventory\Inventory.xaml;Inventory\Inventory_Search.xaml;Inventory\Manager_Log_in.xaml;Inventory\Order.xaml;Inventory\Price.xaml;Inventory\Promo.xaml;MainWindow.xaml;Orders\FA.xaml;Orders\Item_Reports.xaml;Orders\Order_Menu.xaml;Orders\Stores.xaml;
+
+False
+
